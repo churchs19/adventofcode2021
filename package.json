@@ -1,0 +1,25 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/churchs19/adventofcode2021.git"
+  },
+  "author": "Shane Church <shane@s-church.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/churchs19/adventofcode2021/issues"
+  },
+  "homepage": "https://github.com/churchs19/adventofcode2021#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "prettier": "^2.5.0",
+    "prettier-eslint": "^13.0.0"
+  }
+}
