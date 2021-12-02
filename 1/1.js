@@ -1,5 +1,4 @@
 import { readFile } from "fs/promises";
-import { start } from "repl";
 
 try {
   const data = await readFile("./input.txt", "UTF-8");
