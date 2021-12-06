@@ -43,6 +43,14 @@
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}/5/5.js",
       "cwd": "${workspaceFolder}/5"
+    },
+    {
+      "type": "pwa-node",
+      "request": "launch",
+      "name": "Day 6",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/6/6.js",
+      "cwd": "${workspaceFolder}/6"
     }
   ]
 }
