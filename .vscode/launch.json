@@ -91,6 +91,30 @@
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}/11/11.js",
       "cwd": "${workspaceFolder}/11"
+    },
+    {
+      "type": "pwa-node",
+      "request": "launch",
+      "name": "Day 12",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/12/12.js",
+      "cwd": "${workspaceFolder}/12"
+    },
+    {
+      "type": "pwa-node",
+      "request": "launch",
+      "name": "Day 13",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/13/13.js",
+      "cwd": "${workspaceFolder}/13"
+    },
+    {
+      "type": "pwa-node",
+      "request": "launch",
+      "name": "Day 14",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/14/14.js",
+      "cwd": "${workspaceFolder}/14"
     }
   ]
 }
